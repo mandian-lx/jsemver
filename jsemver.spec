@@ -13,7 +13,7 @@ BuildArch:      noarch
 
 BuildRequires:  maven-local
 BuildRequires:  maven-compiler-plugin >= 3.2
-BuildRequires:  maven-javadoc-plugin >= 2.10.2
+BuildRequires:  maven-javadoc-plugin >= 2.10.1
 BuildRequires:  junit >= 4.12
 
 %description
