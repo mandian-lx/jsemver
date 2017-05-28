@@ -6,6 +6,7 @@ Release:        4%{?dist}
 Summary:        A Java implementation of the Semantic Versioning Specification
 
 License:        MIT
+Group:          Development/Java
 URL:            https://github.com/zafarkhaja/jsemver
 Source0:        https://github.com/zafarkhaja/jsemver/archive/%{version}.tar.gz
 
